@@ -1,12 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrei Forminte
 =======================================================================================================================================
 
-Student | Young Enthusiast of Software Development
+Young Enthusiast of Software Development
 --------------------------------------------------
 
 Hello there! I'm someone who thrives on curiosity and embraces every opportunity to learn and grow. My main passion lies in the world of software development, where I leverage my skills to create impactful and inventive projects. I'm eager to delve deeper into these domains to see where this exciting journey leads me.
 
 * 🌍  I'm based in Cluj-Napoca, Romania
+* 🖥️  See my portfolio at [My Portofolio](https://andrei-forminte.online/)
 * ✉️  You can contact me at [andreiforminte19@yahoo.com](mailto:andreiforminte19@yahoo.com)
 * 🧠  I'm learning Backend and Frontend Frameworks
 * 🤝  I'm open to collaborating on Projecsts
