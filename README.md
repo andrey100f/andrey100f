@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrei Forminte
 =======================================================================================================================================
 
-Young Enthusiast of Software Development
+Software Development Enthusiast
 --------------------------------------------------
 
 Hello there! I'm someone who thrives on curiosity and embraces every opportunity to learn and grow. My main passion lies in the world of software development, where I leverage my skills to create impactful and inventive projects. I'm eager to delve deeper into these domains to see where this exciting journey leads me.
